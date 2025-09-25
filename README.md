@@ -2,7 +2,7 @@
 
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/1bd9076f-bcb9-4e7e-9762-aeeb1ef5a386" />
 
-Hi, my name Chris Mahlake... welcome to my **Machine Learning Journey** – a personal learning journey through the essential topics, algorithms, and practical applications of machine learning. This repository captures my progress, projects, and notes as I build a strong foundation in ML.
+Hi, my name is Chris Mahlake... welcome to my **Machine Learning Journey** – a personal learning journey through the essential topics, algorithms, and practical applications of machine learning. This repository captures my progress, projects, and notes as I build a strong foundation in ML.
 
 ---
 
