@@ -49,6 +49,6 @@ This repository will evolve as I go deeper into machine learning. Contributions,
 
 **Chris Mahlake**  
 An explorer in the world of machine learning, passionate about data, logic, and solving real-world problems with AI.  
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/chris-mahlake-623428213/)
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/mahlakechris93/)
 
 > *“You don’t really understand something unless you can explain it to a machine.”*
